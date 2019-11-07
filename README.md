@@ -1,2 +1,2 @@
 # DBSCAN-seeds
-Clusterizacao DBSCAN na base de dados seeds
+Data Mining Clustering seeds (http://archive.ics.uci.edu/ml/datasets/seeds) database using DBSCAN
